@@ -1,0 +1,11 @@
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\bin\Debug\netcoreapp2.2\DI_UNITY.deps.json
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\bin\Debug\netcoreapp2.2\DI_UNITY.runtimeconfig.json
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\bin\Debug\netcoreapp2.2\DI_UNITY.runtimeconfig.dev.json
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\bin\Debug\netcoreapp2.2\DI_UNITY.dll
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\bin\Debug\netcoreapp2.2\DI_UNITY.pdb
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.csprojAssemblyReference.cache
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.csproj.CoreCompileInputs.cache
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.AssemblyInfoInputs.cache
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.AssemblyInfo.cs
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.dll
+C:\Users\tpalanivel\Desktop\DI\DI_UNITY\obj\Debug\netcoreapp2.2\DI_UNITY.pdb
